@@ -1,6 +1,8 @@
 ### Documentacao
 códigos básicos python
 
-##Classes
+## Classes
 
-##Testes
+## Testes
+
+## Funções, closure e decoradores
