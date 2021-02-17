@@ -1,8 +1,4 @@
-"""
-1 - Funções noemadas (def)
-2 - Funções anonimas (lambda)
-3 - Funções de classe (class)
-"""
+
 
 def nomeada_soma(x + y):
     return x + y
